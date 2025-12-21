@@ -1,8 +1,10 @@
-
 <div align="center">
   <img src="https://media.tenor.com/1Z9qRAN3o48AAAAd/code-coding.gif" width="300px">
-  <h2>Merhaba Ben Kentro👋</h2>
-  <p>Kendi halimde discord botu ve cmd tool yapıyorum</p>
+  <h2>Merhaba Ben Kentro 👋</h2>
+  <p>Kendi halimde Discord botları ve CMD tool'lar geliştiriyorum</p>
+
+  <!-- Profil Ziyaretçi Sayacı -->
+  <img src="https://komarev.com/ghpvc/?username=kentrocumdev&label=Profil%20Ziyaretçi&color=5865F2&style=for-the-badge" />
 </div>
 
 ---
@@ -14,6 +16,20 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </div>
+
+---
+
+### 🚀 Öne Çıkan Projeler
+- 🤖 **Discord Moderasyon Botu**  
+  Gelişmiş moderasyon, loglama ve otomasyon sistemi  
+
+- 🛠 **CMD Tool**  
+  Sistem işlemleri için hızlı ve pratik komut satırı aracı  
+
+- 🎮 **Eğlence Botu**  
+  Mini oyunlar, müzik ve eğlence komutları  
+
+> *(İstersen buraya GitHub repo linkleri ekleyebiliriz)*
 
 ---
 
@@ -32,5 +48,8 @@
   </a>
   <a href="https://discord.gg/ceal">
     <img src="https://img.shields.io/badge/Discord Sunucusu-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/kentrodev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
