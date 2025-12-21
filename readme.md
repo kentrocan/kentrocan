@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.tenor.com/1Z9qRAN3o48AAAAd/code-coding.gif" width="300px">
   <h2>Merhaba Ben Kentro👋</h2>
-  <p>Discord botları ve CMD tool yapıyorum..</p>
+  <p>Kendi halimde discord botu ve cmd tool yapıyorum</p>
 </div>
 
 ---
@@ -30,7 +30,7 @@
   <a href="https://discord.com/users/692466311393181696">
     <img src="https://img.shields.io/badge/Discord Profilim-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://discord.gg/xGYfvwzYeA">
+  <a href="https://discord.gg/ceal">
     <img src="https://img.shields.io/badge/Discord Sunucusu-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
