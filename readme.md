@@ -2,9 +2,6 @@
   <img src="https://media.tenor.com/1Z9qRAN3o48AAAAd/code-coding.gif" width="300px">
   <h2>Merhaba Ben Kentro 👋</h2>
   <p>Kendi halimde Discord botları ve CMD tool'lar geliştiriyorum</p>
-
-  <!-- Profil Ziyaretçi Sayacı -->
-  <img src="https://komarev.com/ghpvc/?username=kentrocumdev&label=Profil%20Ziyaretçi&color=5865F2&style=for-the-badge" />
 </div>
 
 ---
@@ -19,25 +16,22 @@
 
 ---
 
-### 🚀 Öne Çıkan Projeler
-- 🤖 **Discord Moderasyon Botu**  
-  Gelişmiş moderasyon, loglama ve otomasyon sistemi  
-
-- 🛠 **CMD Tool**  
-  Sistem işlemleri için hızlı ve pratik komut satırı aracı  
-
-- 🎮 **Eğlence Botu**  
-  Mini oyunlar, müzik ve eğlence komutları  
-
-> *(İstersen buraya GitHub repo linkleri ekleyebiliriz)*
-
----
-
 ### 📈 GitHub İstatistiklerim
 <div align="center">
+  <!-- Profil Ziyaretçi Sayacı -->
+  <img src="https://komarev.com/ghpvc/?username=kentrocumdev&label=Profil%20Ziyaretçi&color=5865F2&style=for-the-badge" />
+
+  <br><br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=kentrocumdev&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentrocumdev&layout=compact&theme=tokyonight" />
 </div>
+
+---
+
+### 🚀 Öne Çıkan Projeler
+- 🤖 **Discord Moderasyon Botu**
+- 🛠 **CMD Tool**
 
 ---
 
